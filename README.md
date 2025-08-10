@@ -1,6 +1,8 @@
 # Real-time-3D-reconstruction-algorithm-for-sewer-pipes
 Real-time 3D reconstruction algorithm for sewer pipes based on point cloud and video data
 
+![Diagram](diagram.png)
+
 ## 📌 Overview  
 This project implements a **3D reconstruction pipeline** for **underground pipes** using point cloud and video data.  
 The system combines **computer vision techniques** and **3D point cloud processing** to generate 3D models of internal pipe structures, useful for inspection, maintenance, and infrastructure monitoring.  
